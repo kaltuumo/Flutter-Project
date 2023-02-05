@@ -1,8 +1,8 @@
-<!-- # Quiz App
+ # Quiz App
 # ID: C119549
 # Name: Kaltumo Ahmed Hashi
-# Class: CA192 -->
-# mylogin_191
+# Class: CA192 
+
 
 A new Flutter project.
 
